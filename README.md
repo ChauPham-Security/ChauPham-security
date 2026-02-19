@@ -10,6 +10,12 @@
 
 I am passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. Explore my projects to see how I’ve enhanced security operations and processes!
 
+## ☁️ Azure Identity & Cloud Security Architecture
+
+- **[Hybrid Identity & SIEM Governance Architecture (Azure)](https://github.com/ChauPham-security/Hybrid-Identity-SIEM-Governance-Architecture)**  
+  Designed an identity-first hybrid cloud security architecture using Microsoft Entra ID, RBAC, Conditional Access, and Microsoft Sentinel to enforce least privilege, eliminate standing admin access, and centralize identity-based threat detection.
+
+
 
 ## ⚠️ Vulnerability Management Projects
 
