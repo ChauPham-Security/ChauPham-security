@@ -15,6 +15,7 @@ I am passionate about solving complex cybersecurity challenges with hands-on exp
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ChauPham-security/Vulnerability-Management-Program-Implementation)**
+- **[10+ STIG Implementations Remediations (PowerShell)](https://github.com/ChauPham-Security/Automated-STIG-Remediation-Using-PowerShell)**
 
 ## 🚨 Threat Hunting and Security Operations
 
