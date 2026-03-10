@@ -11,7 +11,11 @@
 I am passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. Explore my projects to see how I’ve enhanced security operations and processes!
 
 
+## 🤖 AI Security Automation Projects
 
+- [Agentic AI SOC Analyst for Azure](https://github.com/ChauPham-Security/Agentic-AI-SOC-Analyst-for-Azure)  
+  An AI-assisted SOC workflow that helps analysts investigate suspicious activity in Azure environments using Azure Log Analytics, Microsoft Defender, and OpenAI.
+  
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ChauPham-security/Vulnerability-Management-Program-Implementation)**
