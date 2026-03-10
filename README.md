@@ -13,7 +13,7 @@ I am passionate about solving complex cybersecurity challenges with hands-on exp
 
 ## 🤖 AI Security Automation Projects
 
-- [Agentic AI SOC Analyst for Azure](https://github.com/ChauPham-Security/Agentic-AI-SOC-Analyst-for-Azure)  
+- **[Agentic AI SOC Analyst for Azure](https://github.com/ChauPham-Security/Agentic-AI-SOC-Analyst-for-Azure)**  
   An AI-assisted SOC workflow that helps analysts investigate suspicious activity in Azure environments using Azure Log Analytics, Microsoft Defender, and OpenAI.
   
 ## ⚠️ Vulnerability Management Projects
