@@ -13,7 +13,7 @@
 ---
 
 ### **⚡ About Me**
-I am a security professional focused on bridging the gap between **Governance (GRC)** and **Technical Automation**. I specialize in building "Agentic" security tools and architecting end-to-end vulnerability management programs that reduce manual labor and accelerate remediation.
+Security professional bridging the gap between GRC and Technical Automation. I'm actively exploring the development of agentic security tools and building toward end-to-end vulnerability management programs that reduce manual labor and accelerate remediation. Driven by a passion for continuous growth, always expanding my technical skill set and looking for opportunities to make a real impact.
 
 ---
 
