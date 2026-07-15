@@ -1,9 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=008000&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Chau+Pham!;" />
 </h1>
-
-<h3 align="center">🛡️ Cybersecurity Professional | Cloud Security & AI Automation</h3>
-
+<h3 align="center">🛡️ GRC & Compliance Analyst | CISSP | Risk Assessment · NIST CSF · Azure Security</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Certification-CISSP-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certification-AWS%20SAP-orange?style=for-the-badge" />
@@ -13,7 +11,16 @@
 ---
 
 ### **⚡ About Me**
-Security professional bridging the gap between GRC and Technical Automation. I'm actively exploring the development of agentic security tools and building toward end-to-end vulnerability management programs that reduce manual labor and accelerate remediation. Driven by a passion for continuous growth, always expanding my technical skill set and looking for opportunities to make a real impact.
+Security professional specializing in governance, risk, and compliance with hands-on technical depth across Azure, Sentinel, and Tenable. I conduct GRC engagements, build toward end-to-end vulnerability management programs, and explore agentic security tools that reduce manual labor and accelerate remediation.
+
+---
+
+### **📋 Governance, Risk & Compliance**
+*End-to-end GRC delivery for a live cloud environment.*
+
+- **[NIST CSF 2.0 Gap Assessment — Log(N) Pacific](https://github.com/ChauPham-Security/NIST-CSF2-GRC-Assessment-LogNPacific)**
+  - Assessed 75+ controls across all six NIST CSF 2.0 functions against live evidence in Azure, Entra ID, Sentinel, Defender, and Tenable. Built a 20-entry risk register with likelihood/impact scoring, owners, and treatment decisions.
+  - **Impact:** Surfaced a Critical-scored Global Administrator over-privilege risk and delivered a prioritized remediation roadmap and executive summary to the business owner. Authored the company's first formal Incident Response Plan based on NIST SP 800-61.
 
 ---
 
@@ -58,7 +65,8 @@ Security professional bridging the gap between GRC and Technical Automation. I'm
 ### **🛠️ Tech Stack**
 **Languages:** `Python` `PowerShell` `KQL` `Bash`  
 **Platforms:** `Azure` `AWS` `Microsoft Sentinel` `Defender for Endpoint`  
-**Tools:** `Tenable.io` `Qualys` `Splunk` `OpenAI API`
+**Tools:** `Tenable.io` `Qualys` `Splunk` `OpenAI API`  
+**Frameworks:** `NIST CSF 2.0` `NIST SP 800-61` `DISA STIG` `MITRE ATT&CK`
 
 ---
 
