@@ -20,7 +20,7 @@ Security professional specializing in governance, risk, and compliance with hand
 
 - **[NIST CSF 2.0 Gap Assessment — Log(N) Pacific](https://github.com/ChauPham-Security/NIST-CSF2-GRC-Assessment-LogNPacific)**
   - Assessed 75+ controls across all six NIST CSF 2.0 functions against live evidence in Azure, Entra ID, Sentinel, Defender, and Tenable. Built a 20-entry risk register with likelihood/impact scoring, owners, and treatment decisions.
-  - **Impact:** Surfaced a Critical-scored Global Administrator over-privilege risk and delivered a prioritized remediation roadmap and executive summary to the business owner. Authored the company's first formal Incident Response Plan based on NIST SP 800-61.
+- **Impact:** Surfaced a Critical-severity identity and access risk and delivered a prioritized remediation roadmap and executive summary to the business owner. Authored the company's first formal Incident Response Plan based on NIST SP 800-61.
 
 ---
 
