@@ -11,7 +11,7 @@
 ---
 
 ### **⚡ About Me**
-Security professional specializing in governance, risk, and compliance with hands-on technical depth across Azure, Sentinel, and Tenable. I conduct GRC engagements, build toward end-to-end vulnerability management programs, and explore agentic security tools that reduce manual labor and accelerate remediation.
+I like the parts of security most people skip. I assess risk, write the policies that manage it, and get the people with budget to act on it. GRC professional, CISSP-certified. Recent work: NIST CSF 2.0 and ISO 27001 assessments, a vulnerability management program built from zero to CAB-approved, and IAM governance for hybrid environments. Increasingly using AI to speed up the parts of this job that don't need a human, so I can spend more time on the parts that do.
 
 ---
 
