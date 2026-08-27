@@ -18,7 +18,7 @@ I like the parts of security most people skip. I assess risk, write the policies
 ### **📋 Governance, Risk & Compliance**
 *End-to-end GRC delivery for a live cloud environment.*
 
-- **[NIST CSF 2.0 Gap Assessment](https://github.com/ChauPham-Security/NIST-CSF2-GRC-Assessment-LogNPacific)**
+- **[NIST CSF 2.0 Gap Assessment](https://github.com/ChauPham-Security/NIST-CSF2-GRC-Assessment)**
   - Assessed 75+ controls across all six NIST CSF 2.0 functions against live evidence in Azure, Entra ID, Sentinel, Defender, and Tenable. Built a 20-entry risk register with likelihood/impact scoring, owners, and treatment decisions.
   - **Impact:** Surfaced a Critical-severity identity and access risk and delivered a prioritized remediation roadmap and executive summary to the business owner. Authored the company's first formal Incident Response Plan based on NIST SP 800-61.
 
